@@ -14,3 +14,20 @@
 ## 3\. Estructura de Directorios Propuesta
 
 \[Árbol de carpetas a generar en la Fase 4\]
+
+## Dirección Visual Aprobada (Design System & Taste Dials)
+*Nota para el Agente: Antes de pasar a Fase 4, genera 3 propuestas visuales distintas usando la skill `frontend-design` y referencias de `inspo`. Documenta aquí únicamente la dirección aprobada por el usuario.*
+
+- **Nombre de la Dirección y Mood:** [1 frase]
+- **Taste Dials (1-10):**
+  - Design Variance: [X/10]
+  - Motion Intensity: [X/10]
+  - Visual Density: [X/10]
+- **Paleta de Color (4-6 Hex con rol semántico):**
+  - Background Primary / Secondary:
+  - Text Primary / Muted:
+  - Accent Primary / Border:
+- **Sistema Tipográfico:**
+  - Display / Headings:
+  - Body / UI:
+- **Reglas de Layout y Estructura:** [Descripción de alineación, grid y ASCII wireframe del Hero]

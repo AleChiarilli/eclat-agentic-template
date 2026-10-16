@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "inspo": {
+            "serverUrl": "https://inspomcp.dev/api/mcp"
+        },
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@playwright/mcp@latest"
+            ]
+        }
+    }
+}
